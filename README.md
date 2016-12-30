@@ -1,6 +1,8 @@
 # express-webpack-full-live-reload-example
 A workflow with full live reload for webpack&express application.
 
+不错可以运行
+
 The explaining post could be found [here](http://acgtofe.com/posts/2016/02/full-live-reload-for-express-with-webpack).
 
 ## Start
