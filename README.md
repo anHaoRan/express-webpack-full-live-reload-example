@@ -23,3 +23,8 @@ The explaining post could be found [here](http://acgtofe.com/posts/2016/02/full-
 ## Preview
 
 ![example preview](https://raw.githubusercontent.com/kenanpengyou/kenanpengyou.github.io/master/assets/used-images/projects/express-webpack-full-live-reload-example/preview.gif)
+
+
+
+
+[具体文章解释](https://segmentfault.com/a/1190000004505747)
